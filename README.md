@@ -10,3 +10,9 @@ Jogo de cabo de guerra utilizando dispositivos mobile como controle e multijogad
 * **play/**    aplicativo do cliente
 
 
+
+          PUSH >>
+local -> <seu usuario> -> copeh
+ |                          |
+ ----<-----<-----<----<----<-
+      <<  PULL
